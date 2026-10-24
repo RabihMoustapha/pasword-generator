@@ -26,20 +26,20 @@ A simple, lightweight, and modern web application built with **HTML5**, **CSS3**
 ## 🚀 Getting Started
 To run this project locally, follow these simple steps:
 
-* **Clone the repository:**
+**Clone the repository:**
 
 ```Bash
 git clone [https://github.com/your-username/random-password-generator.git](https://github.com/your-username/random-password-generator.git)
 ```
 
-* **Navigate to the project directory:**
+**Navigate to the project directory:**
 
 ```
 Bash
 cd random-password-generator
 ```
 
-* **Open the application:**
+**Open the application:**
 
 * Double-click the index.html file to open it in your preferred web browser, or use a live server extension (like Live Server in VS Code).
 
