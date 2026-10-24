@@ -1,0 +1,38 @@
+/* Body styling */
+body {
+    background: rgb(0, 0, 0);
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    font-style: bold;
+}
+
+/* Main content area */
+.main {
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+/* Add a hover effect to the button */
+button {
+    background: rgb(6, 214, 160);
+    color: rgb(255, 255, 255);
+    border: none;
+    width: 170px;
+    height: 40px;
+    margin-left: 50px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Container for the content */
+.container {
+    display: flexbox;
+    justify-content: space-between;
+    opacity: 0.8;
+
+    p {
+        margin-left: 50px;
+    }
+}
